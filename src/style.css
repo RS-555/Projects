@@ -1,3 +1,5 @@
-h1, p {
-  font-family: Lato;
+.lang{
+  border: 5px solid grey;
+  display: inline-block;
+  margin: 10px;
 }
